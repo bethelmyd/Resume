@@ -5,6 +5,7 @@
 
 ## CONTACT ME
 https://www.linkedin.com/in/david-bethelmy-2504b312/
+
 bethelmyd@gmail.com
 
 ## ABOUT
@@ -15,6 +16,7 @@ Exceptionally detail oriented and dependable Junior Level Web Developer with a s
 
 ### PHD COMPUTER SCIENCE:
 Nova Southeastern University
+
 Fort Lauderdale, FL
 
 ## COMPUTER SKILLS
@@ -39,9 +41,12 @@ Mentoring students, several of whom have gone on to have very successful careers
 
 ### ASSISTANT PROFESSOR 
 Embry-Riddle Aeronautical University | Aug 1999 - Aug 2004
+
 Taught computer science classes in Java programming, operating systems, software engineering, computer graphics, computer architecture, communications and networking, and C programming in both the Windows and Unix environments. 
 
 ## ENTREPRENEURSHIP
 ### ACADEMIC WEB SOLUTIONS
+
 Founder/CEO 
+
 Established to meet the needs of academic institutions looking to provide portals for an alumni presence. 
