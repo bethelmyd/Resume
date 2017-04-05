@@ -2,7 +2,9 @@
 David G. Bethelmy
 
 Web Developer | Assistant Professor
-CONTACT ME
+
+# CONTACT ME
+
 https://www.linkedin.com/in/david-bethelmy-2504b312/
 bethelmyd@gmail.com
 
