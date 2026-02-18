@@ -1,16 +1,18 @@
 # Resume
 
 # David G. Bethelmy
-## Web Developer | Assistant Professor
+## Associate Professor
 
 ## CONTACT ME
 https://www.linkedin.com/in/david-bethelmy-2504b312/
+
+bethelmd@erau.edu
 
 bethelmyd@gmail.com
 
 ## ABOUT
 
-Exceptionally detail oriented and dependable Junior Level Web Developer with a superb work ethic. Knowledgeable in a wide variety of computer languages as well as the principles and techniques of website construction. Highly adept at conveying complex technical information to a variety of professional and lay audiences in a clear and understandable manner.
+Dedicated instructor and mentor who enjoys interacting with students and helping them to grow.
 
 ## EDUCATION
 
@@ -31,11 +33,17 @@ Fort Lauderdale, FL
 *Researching			*Debugging			*Advising
 
 ## EXPERIENCE
-### ASSISTANT PROFESSOR
-Bethune-Cookman University| Aug 2004 - Present 
+### ASSOCIATE PROFESSOR
+Embry-Riddle Aeronautical University | Aug 2020 - Present
 
-Teaching a wide variety of courses in computer science and computer information systems like: Java programming, data structures, assembly language, computability, Web design (front end and back end), operating systems, network operating systems, network security, database management systems. 
-Contributing to curriculum design and completion. 
+Currently teaching classes in Java programming, C and Unix, Discrete Structures, and Computer Graphics (WebGL2 with JavaScript)
+I also mentor many students and oversee their projects.
+
+### ASSISTANT PROFESSOR
+Bethune-Cookman University| Aug 2004 - August 2020 
+
+Taught a wide variety of courses in computer science and computer information systems like: Java programming, data structures, assembly language, computability, Web design (front end and back end), operating systems, network operating systems, network security, database management systems. 
+Contributed to curriculum design and completion. 
 
 Mentoring students, several of whom have gone on to have very successful careers. 
 
@@ -43,10 +51,3 @@ Mentoring students, several of whom have gone on to have very successful careers
 Embry-Riddle Aeronautical University | Aug 1999 - Aug 2004
 
 Taught computer science classes in Java programming, operating systems, software engineering, computer graphics, computer architecture, communications and networking, and C programming in both the Windows and Unix environments. 
-
-## ENTREPRENEURSHIP
-### ACADEMIC WEB SOLUTIONS
-
-Founder/CEO 
-
-Established to meet the needs of academic institutions looking to provide portals for an alumni presence. 
